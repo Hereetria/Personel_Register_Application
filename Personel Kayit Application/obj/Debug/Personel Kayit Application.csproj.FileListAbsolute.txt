@@ -1,0 +1,13 @@
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\bin\Debug\Personel Kayit Application.exe.config
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\bin\Debug\Personel Kayit Application.exe
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\bin\Debug\Personel Kayit Application.pdb
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\obj\Debug\Personel Kayit Application.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\obj\Debug\Personel_Kayit_Application.Properties.Resources.resources
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\obj\Debug\Personel Kayit Application.csproj.GenerateResource.cache
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\obj\Debug\Personel Kayit Application.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\obj\Debug\Personel Kayit Application.exe
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\obj\Debug\Personel Kayit Application.pdb
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\obj\Debug\Personel_Kayit_Application.frm_istatislik.resources
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\obj\Debug\Personel_Kayit_Application.FrmAnaForm.resources
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\obj\Debug\Personel_Kayit_Application.Form2.resources
+C:\Users\Okan\Desktop\Software Development\Personel Kayit Application\Personel Kayit Application\obj\Debug\Personel_Kayit_Application.GirisPanel.resources
